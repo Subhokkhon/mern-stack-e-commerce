@@ -1,5 +1,1 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
-# Please check branches source code is video no wise 
-## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
-## please like subscribe and share TechinfoYT youtube chaannel
+This is a e commerce application created using mern stack. In this type of application user can search whatever products they want and searching can also be done by category. User can also add items to their cart and can also delete items from their cart. This application also uses a payment gateway for transactions. It uses Mongodb as the database, node and express for the backend,tailwind CSS and react for the responsive user design. 
